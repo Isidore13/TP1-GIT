@@ -16,7 +16,7 @@ La commande à utilisé est git log.
 
 Question 6)
 
-Le git diff permet de voir la ajout qui sont toujours présent dans le Working directory, le git diff --staged fait cela dans le Staging area.
+Le git diff permet de voir la ajout qui sont toujours présent dans le Working directory, le git diff --staged fait cela dans la Staging area.
 
 Question 7)
 
@@ -27,5 +27,35 @@ Question 7)
 - Le git diff permet de voir les différence entre deux versions d'un fichier, et donc de voir les ajouts ou suppressions sur celui-ci.
 
 - Le git log permet d'afficher l'ensemble des commits présents dans une branche avec l'auteur de celui-ci et la date de réalisation.
+
+Question 8)
+
+Sur la branche develop
+Fichiers non suivis:
+  (utilisez "git add <fichier>..." pour inclure dans ce qui sera validé)
+	brouillon.txt
+
+aucune modification ajoutée à la validation mais des fichiers non suivis sont présents (utilisez "git add" pour les suivre)
+
+
+Question 9)
+
+La commande reset permet de déplacer le fichier voulu de la Staging area au Working directory.
+
+Question 10)
+
+Sur la branche develop
+Fichiers non suivis:
+  (utilisez "git add <fichier>..." pour inclure dans ce qui sera validé)
+	brouillon.txt
+
+aucune modification ajoutée à la validation mais des fichiers non suivis sont présents (utilisez "git add" pour les suivre)
+
+Question 11)
+
+Les commandes nécessaires à cela sont le "git show", le "git log" et le "git status".
+
+Question 12)
+
 
 
