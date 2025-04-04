@@ -1,0 +1,31 @@
+Question 1)
+
+La commande "git status" permet de voir le statut des éléments dans la branche dans laquelle on est situé. Dans mon cas la commande me spécifie que mon fichier README n'est pas suivi et que pour qu'il le soit je dois entrer un git add.
+
+Question 2)
+
+Le git status me signale que mon fichier est suivi mais pas validé.
+
+Question 3) 
+
+Tout les fichiers ont été envoyé dans la branche dans laquelle on se trouve actuellement, c'est à dire la branche develop.
+
+Question 5)
+
+La commande à utilisé est git log.
+
+Question 6)
+
+Le git diff permet de voir la ajout qui sont toujours présent dans le Working directory, le git diff --staged fait cela dans le Staging area.
+
+Question 7)
+
+- Le git show permet d'afficher les infos sur un commit en particulier, dont on aura spécifié le hash au préalable.
+
+- Le git status permet de voir si des fichiers/modifications sont présentes dans le Working directory ou la Staging area.
+
+- Le git diff permet de voir les différence entre deux versions d'un fichier, et donc de voir les ajouts ou suppressions sur celui-ci.
+
+- Le git log permet d'afficher l'ensemble des commits présents dans une branche avec l'auteur de celui-ci et la date de réalisation.
+
+
